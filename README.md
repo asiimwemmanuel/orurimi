@@ -53,3 +53,5 @@ MIT License. See `LICENSE` file for details.
 ---
 
 Add instructions for setting up a virtual environment and a section for future improvements.
+
+FROM EN TO RNK
