@@ -2,13 +2,9 @@
 
 ## Introduction
 
-Made specifically for Gen Z Ugandans who may struggle with acquiring their mother tongue (myself included), Runyankole-Translator aims to provide accurate translations for the [Nkore language](https://en.wikipedia.org/wiki/Nkore_language). Spoken in southwestern Uganda, Runyangole-Rukiga is of cultural and historical significance in Uganda, specifically for the Banyankole and Bakiga people.
-
-Check it out at [insert link](https://example.com)
+Made specifically for Gen Z Ugandans who may struggle with acquiring their mother tongue (myself included), Orurimi aims to provide accurate translations for the [Nkore language](https://en.wikipedia.org/wiki/Nkore_language). Spoken in southwestern Uganda, Runyangole-Rukiga is of cultural and historical significance, specifically for the Banyankole and Bakiga people.
 
 ## Project Background
-
-### Logistics
 
 1. **Data Collection**: Scraping data from various sources in Runyankole-Rukiga.
 2. **NLP**: Processing and training models for accurate translations.
@@ -26,25 +22,20 @@ Check it out at [insert link](https://example.com)
 
 1. Clone the Repository:
     ```sh
-    git clone https://github.com/asiiwemmanuel/Runyankole-Translator.git
+    git clone https://github.com/asiiwemmanuel/orurimi.git
     ```
 2. Navigate to the Project Directory:
     ```sh
-    cd Runyankole-Translator
+    cd orurimi
     ```
 3. Install Dependencies:
     ```sh
-    pip install -r requirements.txt
+    uv init
     ```
-4. Run the Web Application:
+4. Run:
     ```sh
-    cd webapp
-    python app.py
+    uv run src/app.py
     ```
-
-## Contributing
-
-Fork the repository and submit a pull request with changes.
 
 ## License
 
@@ -52,6 +43,6 @@ MIT License. See `LICENSE` file for details.
 
 ---
 
-Add instructions for setting up a virtual environment and a section for future improvements.
+<!-- Add instructions for setting up a virtual environment and a section for future improvements.
 
-FROM EN TO RNK
+FROM EN TO RNK -->
