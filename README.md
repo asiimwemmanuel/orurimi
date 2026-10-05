@@ -1,4 +1,4 @@
-# Runyankole-Translator
+# Orurimi - a Runyankole Translator
 
 ## Introduction
 
